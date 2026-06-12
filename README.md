@@ -79,7 +79,6 @@ This notebook performs a comprehensive, end-to-end **Exploratory Data Analysis**
 
 Based on this EDA, the best features for a survival prediction model:
 
-```
 Sex, Pclass, Age, FamilySize, FamilyType,
 FarePerPerson, Embarked, NameTitle, TicketGroupSize
-```
+
